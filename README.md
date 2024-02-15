@@ -1,6 +1,6 @@
 # Cat on an island?!
 
-In this project, Mihai Tanase and I created our own survival game in which an agent, a cat, needs to survive as long as possible in the environment, an island. Specifically, the environment was an 8 by 8 state matrix and the states were one of three types: beach, grass, or forest. The beach and forest states contain limited resources which the cat might obtain by performing risky state-specific actions: fish and hunt, respectively. Successfully obtaining resources replenishes some of the cat's health, which decreases with each time step. The environment can be seen in the figure.
+In this project, Mihai Tanase and I created our own survival game in which an agent, a cat, needs to survive as long as possible in the environment, an island. Specifically, the environment is an 8 by 8 state matrix and the states are one of three types: beach, grass, or forest. The beach and forest states contain limited resources which the cat might obtain by performing risky state-specific actions: fish and hunt, respectively. Successfully obtaining resources replenishes some of the cat's health, which decreases with each time step. The environment can be seen in the figure.
 
 <p align="center">
   <img src="environment/environment.png" width="300"/>
